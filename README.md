@@ -23,11 +23,11 @@ El objetivo es aplicar los conocimientos sobre **componentes**, **maquetación**
 ### 🛠️ Tecnologías utilizadas
 Las tecnologías utilizadas para desarrollar este proyecto fueron:
 
--Astro para la estructura del proyecto y el manejo de componentes.
--Tailwind CSS para aplicar estilos de forma rápida utilizando clases utilitarias.
--HTML5 semántico para estructurar correctamente el contenido.
--CSS responsive (Mobile-first) para adaptar el diseño a diferentes dispositivos.
--Componentes reutilizables para organizar mejor el código.
+- Astro para la estructura del proyecto y el manejo de componentes.
+- Tailwind CSS para aplicar estilos de forma rápida utilizando clases utilitarias.
+- HTML5 semántico para estructurar correctamente el contenido.
+- CSS responsive (Mobile-first) para adaptar el diseño a diferentes dispositivos.
+- Componentes reutilizables para organizar mejor el código.
 
 ---
 
@@ -41,19 +41,20 @@ Aprendí a utilizar Astro para estructurar un proyecto basado en componentes, lo
 
 Aunque el proyecto funciona correctamente, hay algunos aspectos que puedo mejorar en futuros proyectos:
 
--Mejorar aún más el manejo del responsive para diferentes tamaños de pantalla.
--Organizar mejor la estructura de componentes dentro del proyecto Astro.
--Aprender a utilizar variables personalizadas de Tailwind para mantener estilos más consistentes.
--Implementar animaciones o transiciones suaves para mejorar la experiencia visual.
+- Mejorar aún más el manejo del responsive para diferentes tamaños de pantalla.
+- Organizar mejor la estructura de componentes dentro del proyecto Astro.
+- Aprender a utilizar variables personalizadas de Tailwind para mantener estilos más consistentes.
+- Implementar animaciones o transiciones suaves para mejorar la experiencia visual.
+
 ---
 
 ### 📚 Recursos útiles
 
 Durante el desarrollo del proyecto utilicé principalmente la documentación oficial y algunos recursos en línea para resolver dudas sobre la estructura y los estilos.
 
--Documentación de Astro
+- Documentación de Astro
 https://docs.astro.build
--Documentación de Tailwind CSS
+- Documentación de Tailwind CSS
 https://tailwindcss.com/docs
 
 ---
