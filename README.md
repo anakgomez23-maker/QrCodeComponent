@@ -13,8 +13,8 @@ El objetivo es aplicar los conocimientos sobre **componentes**, **maquetación**
 
 ### 🔗 Enlaces del proyecto
 
-- **Repositorio en GitHub:** 
-- **Sitio desplegado (opcional):** 
+- **Repositorio en GitHub:** https://github.com/anakgomez23-maker/QrCodeComponent
+- **Sitio desplegado (opcional):** https://qr-code-component-gold-rho.vercel.app/
 
 ---
 
